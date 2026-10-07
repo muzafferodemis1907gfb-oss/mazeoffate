@@ -1,131 +1,58 @@
 MAZE OF FATE - GİZLİLİK POLİTİKASI
 
-Son Güncelleme: 12 Eylül 2026
+Son güncelleme: 7 Ekim 2026
+Uygulama: Maze of Fate
+Paket adı: com.victoriumsoft.mazeoffate
+Google Play geliştirici adı: Victorium Soft
+Gizlilik iletişimi: victoriumsoft@gmail.com
 
-Bu Gizlilik Politikası, VictoriumSoft tarafından geliştirilen Maze of Fate mobil uygulamasının kullanıcı verilerini nasıl işlediğini açıklar.
+Bu Gizlilik Politikası, Google Play'de Victorium Soft geliştirici adıyla yayımlanan Maze of Fate mobil oyununun kullanıcı ve cihaz verilerini nasıl işlediğini açıklar.
 
-1. TOPLANAN VE İŞLENEN BİLGİLER
+1. UYGULAMANIN İŞLEDİĞİ VERİLER
+Maze of Fate'in temel oyun ilerlemesi cihazın uygulamaya özel depolama alanında tutulabilir. Buna seviye/bölüm ilerlemesi, can, Kader Parası/coin ve oyun içi kaynaklar, başarılar, oyun ayarları, bildirim tercihleri ve günlük ödül durumu dahildir.
+Victorium Soft oyunun temel kullanımı için ad, soyad, posta adresi, telefon numarası veya kişiler listesini doğrudan istemez.
 
-Maze of Fate, oyunun çalışması, kullanıcı deneyiminin geliştirilmesi, reklamların gösterilmesi ve uygulama kullanımının analiz edilmesi amacıyla sınırlı miktarda veri işleyebilir.
+2. ÜÇÜNCÜ TARAF HİZMETLER
+Maze of Fate Google AdMob, Firebase Analytics, Google Play Services ve isteğe bağlı Google Play Games özelliklerini kullanır.
 
-Uygulama cihaz üzerinde aşağıdaki oyun verilerini saklayabilir:
-- Oyun ilerlemesi
-- Bölüm ve seviye bilgileri
-- Coin ve oyun içi kaynak miktarları
-- Can bilgileri
-- Rütbe ve başarı bilgileri
-- Oyun ayarları
-- Ses ve müzik tercihleri
-- Günlük ödül ve görev durumları
+Google AdMob; reklam gösterimi, ölçüm, güvenlik ve sahtekarlık önleme amacıyla yapılandırmaya ve kullanıcı tercihlerine bağlı olarak cihaz/uygulama tanımlayıcıları, IP adresi ve bundan türetilebilen yaklaşık konum, cihaz ve uygulama bilgileri, reklam etkileşimleri ve tanılama verilerini işleyebilir.
 
-2. KİŞİSEL BİLGİLER
+Firebase Analytics; uygulama etkileşimleri, oturum verileri, uygulama sürümü, cihaz/işletim sistemi bilgileri, cihaz veya uygulama örneği tanımlayıcıları, tanılama bilgileri ve yaklaşık konum gibi teknik verileri işleyebilir.
 
-Maze of Fate, uygulamanın temel kullanımı için ad, soyad, posta adresi veya telefon numarası gibi kişisel bilgileri doğrudan talep etmez.
+Google Play Games kullanıldığında Google; oyuncu kimliği, Play Games profil bilgileri, başarılar, liderlik tabloları ve ilgili oyun etkinliği verilerini işleyebilir.
 
-3. GOOGLE ADMOB
+3. VERİLERİN KULLANIM AMAÇLARI
+Veriler oyunun çalışması, ilerlemenin kaydedilmesi, reklam ve isteğe bağlı ödüllü reklamların sunulması, uygulama kullanım/performance analizleri, güvenlik ve kötüye kullanım önleme, Play Games özellikleri ve kullanıcının izin verdiği bildirimler için işlenebilir.
 
-Maze of Fate içerisinde reklam göstermek amacıyla Google AdMob kullanılacaktır.
-
-Google AdMob; reklam gösterimi, reklam performansının ölçülmesi, sahtekarlığın önlenmesi ve reklamların kişiselleştirilmesi veya kişiselleştirilmemesi amacıyla aşağıdaki türlerde teknik verileri işleyebilir:
-- Reklam kimliği
-- IP adresi
-- Cihaz bilgileri
-- İşletim sistemi ve uygulama bilgileri
-- Reklam görüntüleme, tıklama ve etkileşim bilgileri
-- Yaklaşık konum bilgileri
-
-Ödüllü reklamlar, kullanıcıların reklam izleyerek oyun içerisinde can veya başka ödüller kazanmasını sağlayabilir.
-
-Google tarafından işlenen veriler Google'ın kendi gizlilik politikası ve hizmet şartlarına tabidir.
-
-4. FIREBASE ANALYTICS
-
-Maze of Fate içerisinde uygulama kullanımını analiz etmek ve kullanıcı deneyimini geliştirmek amacıyla Google Firebase Analytics kullanılacaktır.
-
-Firebase Analytics aşağıdaki türlerde verileri işleyebilir:
-- Uygulama kullanım ve etkileşim bilgileri
-- Uygulama oturumu bilgileri
-- Cihaz modeli
-- İşletim sistemi sürümü
-- Uygulama sürümü
-- Yaklaşık konum ve teknik cihaz bilgileri
-- Uygulama içerisindeki olay ve ekran etkileşimleri
-
-Bu veriler oyun performansını, kullanıcı davranışlarını ve uygulama özelliklerinin kullanımını anlamak amacıyla kullanılabilir.
+4. VERİ PAYLAŞIMI VE SATIŞ
+Victorium Soft kişisel verileri satmaz. Uygulamadaki Google SDK'ları, ilgili hizmetleri sağlayabilmek için yukarıda açıklanan verileri Google ile işleyebilir veya paylaşabilir.
 
 5. BİLDİRİMLER
+Kullanıcı izin verirse uygulama can yenilenmesi, günlük ödüller ve oyun içi hatırlatmalar için bildirim gönderebilir. Bildirim izni cihaz ayarlarından kapatılabilir.
 
-Maze of Fate, kullanıcının izin vermesi halinde bildirim gönderebilir.
+6. VERİ SAKLAMA VE SİLME
+Yerel oyun verileri kullanıcı uygulama verilerini temizleyene veya uygulamayı kaldırana kadar cihazda tutulabilir. Google AdMob, Firebase ve Google Play Services tarafından işlenen verilerin saklama süreleri Google'ın kendi politikalarına tabidir.
+Maze of Fate, Victorium Soft tarafından yönetilen ayrı bir kullanıcı hesabı oluşturmaz.
+Gizlilik veya silme talepleri victoriumsoft@gmail.com adresine gönderilebilir.
 
-Bildirimler şu amaçlarla kullanılabilir:
-- Canların yeniden dolduğunu bildirmek
-- Günlük ödülleri hatırlatmak
-- Oyun içi etkinlikleri bildirmek
-- Oyunla ilgili önemli duyuruları iletmek
+7. VERİ GÜVENLİĞİ
+Yerel oyun verileri Android'in uygulamaya özel depolama alanında tutulur. Google hizmetleriyle ağ iletişimleri ilgili SDK'ların güvenlik mekanizmaları ve HTTPS/TLS gibi aktarım korumaları kullanılarak gerçekleştirilir.
 
-Kullanıcılar bildirim izinlerini cihazlarının sistem ayarlarından istedikleri zaman kapatabilir.
+8. ÇOCUKLARIN GİZLİLİĞİ
+Maze of Fate kullanıcıdan doğrudan ad, adres, telefon numarası veya kişiler listesi istemez. Bir çocuğa ait verinin uygunsuz biçimde işlendiğini düşünüyorsanız victoriumsoft@gmail.com adresinden iletişime geçebilirsiniz.
 
-6. OYUN VERİLERİNİN SAKLANMASI
+9. KULLANICI TERCİHLERİ VE HAKLARI
+Kullanıcılar cihaz ayarlarından bildirimleri ve uygun olduğu ölçüde reklam/gizlilik tercihlerini yönetebilir. Uygulanabilir mevzuat kapsamındaki erişim, düzeltme, silme veya itiraz talepleri için victoriumsoft@gmail.com kullanılabilir.
 
-Bazı oyun verileri kullanıcının cihazında yerel olarak saklanabilir.
+10. POLİTİKA DEĞİŞİKLİKLERİ
+Bu politika uygulama özellikleri, kullanılan SDK'lar veya yasal gereklilikler değiştiğinde güncellenebilir. Güncel sürüm yayımlandığında son güncelleme tarihi değiştirilir.
 
-Uygulamanın silinmesi, uygulama verilerinin temizlenmesi veya cihazın değiştirilmesi durumunda yerel olarak saklanan oyun ilerlemesi kaybolabilir.
-
-7. ÇOCUKLARIN GİZLİLİĞİ
-
-Maze of Fate, çocuklardan bilerek kişisel bilgi toplamayı amaçlamaz.
-
-Bir çocuğa ait kişisel bilgilerin uygunsuz şekilde toplandığının fark edilmesi halinde ilgili bilgilerin kaldırılması için gerekli işlemler yapılacaktır.
-
-Ebeveynler veya yasal vasiler gizlilik ile ilgili taleplerini victoriumsoft@gmail.com adresine iletebilir.
-
-8. VERİ GÜVENLİĞİ
-
-Kullanıcı verilerinin güvenliğini korumak amacıyla makul teknik ve organizasyonel önlemler alınır.
-
-Bununla birlikte internet üzerinden yapılan hiçbir veri aktarımının veya elektronik depolama yönteminin tamamen güvenli olduğu garanti edilemez.
-
-9. ÜÇÜNCÜ TARAF HİZMETLER
-
-Maze of Fate aşağıdaki üçüncü taraf hizmetleri kullanacaktır:
-- Google AdMob
-- Google Firebase Analytics
-- Google Play Services
-
-Bu hizmetler tarafından işlenen veriler ilgili hizmet sağlayıcının kendi gizlilik politikalarına tabidir.
-
-10. VERİ PAYLAŞIMI
-
-VictoriumSoft kullanıcıların kişisel bilgilerini satmaz.
-
-Veriler yalnızca:
-- Uygulamanın çalıştırılması
-- Reklamların gösterilmesi
-- Kullanımın analiz edilmesi
-- Güvenliğin sağlanması
-- Yasal yükümlülüklerin yerine getirilmesi
-
-amaçlarıyla gerekli üçüncü taraf hizmet sağlayıcılarla paylaşılabilir.
-
-11. KULLANICI HAKLARI
-
-Yürürlükteki mevzuata bağlı olarak kullanıcılar kendileriyle ilişkili kişisel veriler konusunda aşağıdaki haklara sahip olabilir:
-- Verilerinin işlenip işlenmediğini öğrenme
-- İşlenen veriler hakkında bilgi talep etme
-- Yanlış bilgilerin düzeltilmesini talep etme
-- Uygun durumlarda verilerin silinmesini talep etme
-- Veri işlemeye itiraz etme
-
-Talepler victoriumsoft@gmail.com adresine gönderilebilir.
-
-12. GİZLİLİK POLİTİKASINDAKİ DEĞİŞİKLİKLER
-
-Bu Gizlilik Politikası uygulamadaki özelliklerin, kullanılan hizmetlerin veya yasal gerekliliklerin değişmesi halinde güncellenebilir.
-
-Güncellenmiş politika yayımlandığı tarihten itibaren geçerli olur.
-
-13. İLETİŞİM
-
+11. İLETİŞİM
+Geliştirici: Victorium Soft
 Uygulama: Maze of Fate
-Geliştirici: VictoriumSoft
+Paket adı: com.victoriumsoft.mazeoffate
 E-posta: victoriumsoft@gmail.com
+
+Google Gizlilik Politikası: https://policies.google.com/privacy
+Google Reklam Teknolojileri: https://policies.google.com/technologies/ads
+Firebase Gizlilik ve Güvenlik: https://firebase.google.com/support/privacy
